@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameerposwal03" target="blank"><img src="https://img.shields.io/twitter/follow/sameerposwal03?logo=twitter&style=for-the-badge" alt="sameerposwal03" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Backend Development**
+- 🌱 I’m currently learning **NextJS, Backend Development, Solidity**
 
 - 📫 How to reach me **poswalsameer2003@gmail.com**
 
