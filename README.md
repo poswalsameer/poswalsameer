@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=poswalsameer&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-A passionate engineer and a seasoned developer
+Passionate engineer playing with the Internet and Games. 
 
 
 ## 🌐 Socials:
