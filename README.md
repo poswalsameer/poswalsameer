@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=poswalsameer&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Passionate engineer playing with the Internet and Games. 
+Passionate Engineer who loves to work on things related to web and games. Diving deep into [Golang](https://go.dev/), [WebRTC](https://webrtc.org/), and [Solidity](https://soliditylang.org/) these days. Apart from developing and debugging, I am highly interested in volleyball, emulation, mechanical keyboards, and rubik's cube. Currently working as a freelance engineer and building frontend at [Keyshade](https://www.keyshade.xyz/). You can find me pretty much active on [Github](https://github.com/poswalsameer), [LinkedIn](https://www.linkedin.com/in/sameerposwal/) and [Twitter](https://twitter.com/sameerposwal03). Feel free to check out my [Resume](https://docs.google.com/document/d/1X5eMOd4Jn4zolTgN-wwA2KxnnPu25FRe/edit?usp=sharing&ouid=105591030184095501081&rtpof=true&sd=true). 
 
 
 ## 🌐 Socials:
