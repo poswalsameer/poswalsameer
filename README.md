@@ -80,7 +80,7 @@ Git, GitHub, CI/CD Pipelines, Postman, Bruno, Linux, Cursor
 
 ## Personal Interests
 
-Outside of engineering, I enjoy chess, mechanical keyboards, emulation systems, and solving Rubik’s cubes. I’m particularly interested in how **systems thinking applies beyond software, from games to hardware to real-world logistics**.
+Outside of engineering, I enjoy chess, mechanical keyboards, emulation systems, and solving Rubik’s cubes.
 
 ---
 
