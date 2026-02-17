@@ -73,7 +73,7 @@ Git, GitHub, CI/CD Pipelines, Postman, Bruno, Linux, Cursor
 
 - LinkedIn: https://www.linkedin.com/in/sameerposwal  
 - GitHub: https://github.com/poswalsameer  
-- Twitter: https://twitter.com/sameerposwal03  
+- Twitter: https://twitter.com/samposwal  
 - Resume: https://docs.google.com/document/d/1X5eMOd4Jn4zolTgN-wwA2KxnnPu25FRe
 
 ---
